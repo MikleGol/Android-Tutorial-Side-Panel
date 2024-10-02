@@ -20,6 +20,6 @@
         android:divider="@android:color/transparent"
         android:dividerHeight="0dp"
         android:background="#FFFFFF"
-        app:layout_gravity="start"/>
+        android:layout_gravity="start" />
 
 </androidx.drawerlayout.widget.DrawerLayout>
